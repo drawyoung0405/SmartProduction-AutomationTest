@@ -1,0 +1,13 @@
+# .NET Core
+bin/
+obj/
+appsettings.Development.json
+
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# IDEs
+.vscode/
+.vs/
